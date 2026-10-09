@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Black tee">
+  <rect width="600" height="600" fill="#f1f3f7" />
+  <path
+    d="M225 120 L180 150 L130 230 L180 265 L205 232 L205 470 L395 470 L395 232 L420 265 L470 230 L420 150 L375 120 C360 155 330 172 300 172 C270 172 240 155 225 120 Z"
+    fill="#151b26"
+  />
+</svg>
